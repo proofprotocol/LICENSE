@@ -1,6 +1,6 @@
 Creative Commons Attribution 4.0 International (CC BY 4.0)
 
-Applies to: PP-SPEC-001 (v1.0) through PP-SPEC-017
+Applies to: PP-SPEC-001 (v1.0 only), PP-SPEC-002 through PP-SPEC-017, PP-SPEC-034 through PP-SPEC-046, PP-SPEC-077, PP-SPEC-078
 
 Copyright (c) 2021-present Nebulonium, Inc.
 

@@ -1,6 +1,6 @@
 Creative Commons Attribution-NoDerivatives 4.0 International (CC BY-ND 4.0)
 
-Applies to: PP-SPEC-001 (v1.1 and later) and PP-SPEC-018 onward
+Applies to: PP-SPEC-001 (v1.1 and later) and doctrine specifications from PP-SPEC-018 onward (currently PP-SPEC-023 through PP-SPEC-027, PP-SPEC-032, PP-SPEC-033)
 
 Copyright (c) 2021-present Nebulonium, Inc.
 
