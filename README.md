@@ -1,92 +1,33 @@
-# Proof Protocol™ - License Policy
+<!-- SPDX-License-Identifier: Apache-2.0 -->
 
-**Issuer:** Craig Ellrod, Founder & CEO, Nebulonium, Inc. (d/b/a HACKERverse)
-**Date:** Sept 17, 2026
+# Proof Protocol License
 
-Proof Protocol specifications are published under two Creative Commons
-licenses, split deliberately by document type. This is a policy, not an
-inconsistency. Read below before assuming a mismatched license on any
-given spec is an error.
+The canonical license for all Proof Protocol and Proof Controller repositories.
 
-## PP-SPEC-001 exception
+| File | What it is |
+|---|---|
+| [LICENSE.md](LICENSE.md) | **Proof Protocol License 1.0**, the governing license |
+| [LICENSE-APACHE-2.0.md](LICENSE-APACHE-2.0.md) | Apache License 2.0, full text |
+| [ETHICS.md](ETHICS.md) | Proof Economy Code of Ethics, enforced by LICENSE.md Part C8 |
+| [NOTICE.md](NOTICE.md) | Original inventor attribution |
 
-PP-SPEC-001 (Proof Protocol Specification) is the canonical architectural
-root. Version 1.0 was published under CC BY 4.0, and that grant remains in
-force for v1.0 permanently. Version 1.1 and every later version are
-published under CC BY-ND 4.0, so the foundational definition cannot be
-redistributed as competing modified editions. The right to implement,
-build against, and certify conformance to PP-SPEC-001 is unaffected.
+## Summary
 
-## PP-SPEC-002 through PP-SPEC-017 - CC BY 4.0
+| Material | License | SPDX |
+|---|---|---|
+| Specifications, schemas, test vectors (all versions, past and present) | Apache License 2.0 + patent commitment (LICENSE.md Part A) | `Apache-2.0` |
+| Software, free tier and commercial edition | Proprietary (LICENSE.md Part B) | `LicenseRef-ProofProtocol-Proprietary` |
+| Proofs, Ledger, Marks | LICENSE.md Part C | n/a |
 
-These are architecture and interface specifications: protocol formats,
-API definitions, scoring formulas, anchoring mechanisms. They are
-licensed CC BY 4.0, attribution required, adaptation and implementation
-permitted. This is intentional. Interoperability requires implementers to
-translate, extend, and adapt these specs into different languages,
-frameworks, and domains without asking permission each time. Broad
-adoption of the architecture is the goal for this tier, not restriction.
+- **Specs are open.** Anyone may implement, copy, fork and build on them. Patent claims committed royalty-free to conforming implementations are listed in each repo's PATENT-SCHEDULE.md.
+- **Code is closed.** Use is governed by the free tier terms or a commercial order form.
+- **Names are protected.** "Proof Protocol" and "Proof Controller" are marks of Nebulonium, Inc. Forks must rename.
+- **Ethics are enforced.** Breach of ETHICS.md can lead to revoked proofs, loss of the marks and termination of software rights. Spec rights are never affected.
 
-CC BY 4.0 grants are irrevocable. These specifications remain CC BY 4.0
-permanently, regardless of any future change to this policy.
+All prior licenses for the specifications, including the Greater Good License family, are superseded. Every prior version of the specifications is licensed under Apache License 2.0 from its original publication date.
 
-## Doctrine specifications, PP-SPEC-018 onward - CC BY-ND 4.0
+## Licensor
 
-Beginning with PP-SPEC-018, doctrine and positioning specifications
-(currently PP-SPEC-023 through PP-SPEC-027, PP-SPEC-032 and PP-SPEC-033),
-definitions, structural claims, and named concepts that make an
-originating claim rather than defining an interface, are licensed CC
-BY-ND 4.0. Attribution is required. Derivative works, adaptations, and
-reworded restatements are not permitted without direct permission.
+Nebulonium, Inc. Contact: craig@hackerverse.ai
 
-This tier exists to prevent a specific failure mode: a concept can be
-cited correctly, verbatim, with attribution, and cited that way freely.
-What ND prevents is a third party paraphrasing the same definition into
-their own formulation and presenting it as independently arrived at,
-stripping the originating claim while keeping the substance. Architecture
-specs don't need this protection, nobody is trying to claim credit for an
-API shape. Doctrine specs do.
-
-## Framework mappings and method specifications, PP-SPEC-018 onward - CC BY 4.0
-
-Interoperability and method specifications numbered after PP-SPEC-017
-remain CC BY 4.0, because they exist to be adapted: the framework-mapping
-series (PP-SPEC-034 through PP-SPEC-046) and method specifications such
-as PP-SPEC-077 and PP-SPEC-078. Patent rights in any method they describe
-are reserved as stated in each repository.
-
-## Which license applies to a given spec
-
-Check the individual repo's own LICENSE file. Every Proof Protocol spec
-repo states its license explicitly. When in doubt, the rule of thumb is:
-if the document defines how something is built or implemented, it is
-very likely CC BY 4.0. If the document defines what something means or
-why a structure is required, it is very likely CC BY-ND 4.0, effective
-PP-SPEC-018 forward. PP-SPEC-001 v1.1 and later is CC BY-ND 4.0.
-
-## Software and code repositories - Elastic License 2.0 (ELv2)
-
-This policy governs specification documents only. Software and code
-repositories under the Proof Protocol umbrella (reference
-implementations, SDKs, platform code, ProofStamp tooling) are licensed
-separately under the Elastic License 2.0 (ELv2), with all patent rights
-reserved rather than granted. See `ELv2.md` in this repository for the
-full terms. Specifications describe what must be proven and how systems
-must interoperate; they do not require disclosure of the proprietary
-mechanisms any individual implementation, including HACKERverse's own,
-uses to satisfy them.
-
-## Requesting derivative use of an ND-licensed spec
-
-CC BY-ND 4.0 does not block quotation, citation, or verbatim reproduction
-with attribution. It blocks only adaptation. If you want to incorporate a
-PP-SPEC-018-or-later concept into your own framework in your own words
-rather than quoting it directly, contact the author for a one-off written
-permission. Terms are granted on a case-by-case basis and typically
-require attribution back to the originating specification.
-
-## Full License Terms
-
-- [CC BY 4.0 - Legal Code](https://creativecommons.org/licenses/by/4.0/legalcode) (also mirrored here as `CC-BY-4.0.md`)
-- [CC BY-ND 4.0 - Legal Code](https://creativecommons.org/licenses/by-nd/4.0/legalcode) (also mirrored here as `CC-BY-ND-4.0.md`)
-- [Elastic License 2.0 - Reference Terms](https://www.elastic.co/licensing/elastic-license) (Proof Protocol's patent-reserved version mirrored here as `ELv2.md`)
+Original inventor: Craig Thomas Ellrod (ORCID [0009-0004-1058-7666](https://orcid.org/0009-0004-1058-7666))
