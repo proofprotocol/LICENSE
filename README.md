@@ -24,7 +24,7 @@ The canonical license for all Proof Protocol and Proof Controller repositories.
 - **Names are protected.** "Proof Protocol" and "Proof Controller" are marks of Nebulonium, Inc. Forks must rename.
 - **Ethics are enforced.** Breach of ETHICS.md can lead to revoked proofs, loss of the marks and termination of software rights. Spec rights are never affected.
 
-All prior licenses for the specifications, including the Greater Good License family, are superseded. Every prior version of the specifications is licensed under Apache License 2.0 from its original publication date.
+All prior licenses for the specifications are superseded. Every prior version of the specifications is licensed under Apache License 2.0 from its original publication date.
 
 ## Licensor
 
