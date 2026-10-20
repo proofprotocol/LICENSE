@@ -21,13 +21,13 @@ The canonical license for all Proof Protocol and Proof Controller repositories.
 
 - **Specs are open.** Anyone may implement, copy, fork and build on them. Patent claims committed royalty-free to conforming implementations are listed in each repo's PATENT-SCHEDULE.md.
 - **Code is closed.** Use is governed by the free tier terms or a commercial order form.
-- **Names are protected.** "Proof Protocol" and "Proof Controller" are marks of Nebulonium, Inc. Forks must rename.
+- **Names are protected.** "Proof Protocol" and "Proof Controller" are marks of Craig Thomas Ellrod. Forks must rename.
 - **Ethics are enforced.** Breach of ETHICS.md can lead to revoked proofs, loss of the marks and termination of software rights. Spec rights are never affected.
 
 All prior licenses for the specifications are superseded. Every prior version of the specifications is licensed under Apache License 2.0 from its original publication date.
 
 ## Licensor
 
-Nebulonium, Inc. Contact: craig@hackerverse.ai
+Craig Thomas Ellrod. Contact: CraigEllrod@gmail.com
 
 Original inventor: Craig Thomas Ellrod (ORCID [0009-0004-1058-7666](https://orcid.org/0009-0004-1058-7666))
